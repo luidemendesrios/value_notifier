@@ -1,17 +1,8 @@
 # value_notifier
 
-A new Flutter project.
+Esta pequena aplicação usa o exemplo de app padrão do flutter para implementar a gerência de estado do value notifier.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Captura de tela 2024-01-16 173519](https://github.com/luidemendesrios/value_notifier/assets/66266273/b057f551-a2e8-4646-b658-4081f08a6704)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# value_notifier
